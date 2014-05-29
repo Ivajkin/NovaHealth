@@ -12,3 +12,5 @@ NovaHealth
 [Первоначальные исходники, утилиты и системы управления](http://www.magentocommerce.com/download)
 
 [Интеренсый пример](http://www.homedics.com/health.html?cat=789)
+
+[Designer's Guide - руководство по дизайну](http://www.magentocommerce.com/resources/magento-user-guide)
