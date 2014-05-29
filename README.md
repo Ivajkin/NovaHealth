@@ -10,3 +10,5 @@ NovaHealth
 **Цель:** продление активного и счастливого периода жизни людей
 
 [Первоначальные исходники, утилиты и системы управления](http://www.magentocommerce.com/download)
+
+[Интеренсый пример](http://www.homedics.com/health.html?cat=789)
