@@ -14,3 +14,5 @@ NovaHealth
 [Интеренсый пример](http://www.homedics.com/health.html?cat=789)
 
 [Designer's Guide - руководство по дизайну](http://www.magentocommerce.com/resources/magento-user-guide)
+
+![Первый набросок](https://dl.dropboxusercontent.com/u/38317632/Sketch1.JPG)
